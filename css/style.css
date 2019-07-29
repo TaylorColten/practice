@@ -154,9 +154,22 @@
       input:checked + label {
         background: #79A9CE;
       }
-    
+ 
+      .container-bar {
+        width:100%;
+        background-color: #ddd;
+      }
+
+      .skills {
+        text-align: right;
+        padding: 10px;
+        color: white;
+      }
   
-  
+      .html {width: 90%; background-color:rgb(53, 6, 53);}
+      .css {width: 80%; background-color: rgb(53, 6, 53);}
+      .js {width: 50%; background-color: rgb(53, 6, 53);}
+      .jquery {width: 50%; background-color: rgb(53, 6, 53);} 
   
   
   
